@@ -9,7 +9,7 @@ and lots of random whitespace within the homepage/updates/bio columns.
 
 @author: Jason Zhu
 '''
-DATASET_NAME = "Kickstarter Longitudinal - 6.13.2017.xlsx"
+DATASET_NAME = "COPY - Kickstarter Longitudinal - 6.13.2017.xlsx"
 DATASET_SHEETNAME = "Kickstarter V.6"
 NEW_DATASET_FILENAME = "Founder bios & Campaign text - 6.22.2017.xlsx"
 
