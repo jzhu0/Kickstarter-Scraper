@@ -119,3 +119,4 @@ for pID, pURL in links.iteritems():
     
 new_data.save(filename = NEW_DATASET_FILENAME)
 print "    All data successfully parsed."
+driver.quit()
